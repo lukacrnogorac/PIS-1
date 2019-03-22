@@ -8,6 +8,8 @@ namespace Firstproject
         {
             Console.WriteLine("Pozdrav svima !");
             // pozdrav
+            Console.WriteLine(" ! ! ! ");
+            // !
         }
     }
 }
