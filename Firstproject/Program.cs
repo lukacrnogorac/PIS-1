@@ -10,6 +10,8 @@ namespace Firstproject
             // pozdrav
             Console.WriteLine(" ! ! ! ");
             // !
+            //
+            //
         }
     }
 }
