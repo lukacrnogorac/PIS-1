@@ -7,6 +7,7 @@ namespace Firstproject
         static void Main(string[] args)
         {
             Console.WriteLine("Pozdrav svima !");
+            // pozdrav
         }
     }
 }
