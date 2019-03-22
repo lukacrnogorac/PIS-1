@@ -6,5 +6,9 @@ namespace Firstproject
 {
     class NewClass
     {
+        void myMethod()
+        {
+
+        }
     }
 }
