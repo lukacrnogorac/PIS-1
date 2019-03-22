@@ -6,5 +6,6 @@ namespace Firstproject
 {
     class NewClass
     {
+        // dodo sam komentar u klasi
     }
 }
