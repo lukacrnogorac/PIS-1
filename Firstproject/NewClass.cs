@@ -14,5 +14,6 @@ namespace Firstproject
 =======
         // dodo sam komentar u klasi
 >>>>>>> e94f8daa4974788815f9ea32174fadc8d191fa01
+     //komentar
     }
 }
